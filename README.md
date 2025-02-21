@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @preamza02
-- 👀 I’m interested in AI,Image processing,Trading Bot,Cryptocurrency
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Phone : 0622645246 or Email : preamza02@gmail.com
+# Hi, I'm **Prame** 👋
 
-<!---
-preamza02/preamza02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer who loves building cool projects, learning new technologies, and solving real-world problems. Welcome to my GitHub profile where I share my work, thoughts, and collaborations.
+
+## About Me
+
+- 🌱 **Learning:** Modern web development, cloud computing, and more!
+- 💼 **Working:** As a Software Developer at [AthenaAI](https://athenaai.co/)
+![Arch Linux Logo](https://upload.wikimedia.org/wikipedia/commons/8/80/Archlinux-icon-crystal-64.svg)
+
+## Skills & Technologies
+
+- **Languages:** Python, Typescript, Go, C
+- **Web Development:** Next.js, React.js, HTML, CSS, HTMX
+- **Backend Development:** FastAPI, Gin, Express.js
+- **Dev Workflow:** _Archlinux_, Hyprland, tmux, Neovim, lazygit, lazydocker
+- **Architecture:** Microservices, Serverless, Cloud-Native
+- **Cloud:** AWS
+- **Tools & Platforms:** Git, Docker 
+- **Databases:** MySQL, MariaDB, MongoDB
+- **Other:** GraphQL, CI/CD, GPRC 
+
+## Connect with Me
+
+- **LinkedIn:** [Supakone Kongprapan](https://www.linkedin.com/in/supakone-kongprapan)
+- **Email:** [supakone.kongprapan@gmail.com](mailto:supakone.kongprapan@gmail.com)
+
+---
+
+Thanks for visiting my profile! Feel free to reach out if you have any questions or if you'd like to work together.
