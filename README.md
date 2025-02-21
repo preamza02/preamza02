@@ -10,15 +10,11 @@ I'm a passionate developer who loves building cool projects, learning new techno
 
 ## Skills & Technologies
 
-- **Languages:** Python, Typescript, Go, C
-- **Web Development:** Next.js, React.js, HTML, CSS, HTMX
-- **Backend Development:** FastAPI, Gin, Express.js
-- **Dev Workflow:** _Archlinux_, Hyprland, tmux, Neovim, lazygit, lazydocker
-- **Architecture:** Microservices, Serverless, Cloud-Native
-- **Cloud:** AWS
-- **Tools & Platforms:** Git, Docker 
-- **Databases:** MySQL, MariaDB, MongoDB
-- **Other:** GraphQL, CI/CD, GPRC 
+- **Languages:** Python, Typescript, Go, C, SQL, HTML?
+- **Technology:** CI/CD, GraphQL, GRPC, RESTAPI, Microservices, Serverless, Cloud-Computing 
+- **Tools:** Docker, RabbitMQ, Redis, Gitlab, AWS, SQL/non-SQL database
+- **Dev Setup:** _Archlinux_, Hyprland, tmux, Neovim, lazygit, lazydocker
+- **Framework/Library** Next.js, React.js, FastAPI, Gin
 
 ## Connect with Me
 
