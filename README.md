@@ -6,7 +6,6 @@ I'm a passionate developer who loves building cool projects, learning new techno
 
 - 🌱 **Learning:** Modern web development, cloud computing, and more!
 - 💼 **Working:** As a Software Developer at [AthenaAI](https://athenaai.co/)
-![Arch Linux Logo](https://upload.wikimedia.org/wikipedia/commons/8/80/Archlinux-icon-crystal-64.svg)
 
 ## Skills & Technologies
 
