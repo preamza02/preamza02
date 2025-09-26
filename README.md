@@ -5,7 +5,7 @@ I'm a passionate developer who loves building cool projects, learning new techno
 ## About Me
 
 - 🌱 **Learning:** Modern web development, cloud computing, and more! [See My on-going project](https://github.com/preamza02?tab=projects)
-- 💼 **Working:** As a Software Developer at [AthenaAI](https://athenaai.co/)
+- 💼 **Working:** 
 
 ## Skills & Technologies
 
