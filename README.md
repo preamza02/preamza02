@@ -12,7 +12,7 @@ I'm a passionate developer who loves building cool projects, learning new techno
 - **Languages:** Python, Typescript, Go, C, SQL, HTML?
 - **Technology:** CI/CD, GraphQL, GRPC, RESTAPI, Microservices, Serverless, Cloud-Computing 
 - **Tools:** Docker, RabbitMQ, Redis, Gitlab, AWS, SQL/non-SQL database
-- **Dev Setup:** _Archlinux_, Hyprland, tmux, Neovim, lazygit, lazydocker
+- **Dev Setup:** 
 - **Framework/Library** Next.js, React.js, FastAPI, Gin
 
 ## Connect with Me
