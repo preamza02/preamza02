@@ -1,6 +1,6 @@
 ### Hi, I'm **Prame** 👋
 
-#### ☀️ Software Engineer by day
+#### ☀️ Software Engineer
 
 Frontend Engineer at [Agoda](www.agoda.com).
 
