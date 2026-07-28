@@ -1,10 +1,8 @@
 ### Hi, I'm **Prame** 👋
 
-#### ☀️ Software Engineer by day, 🌙 Financial Toolmaker at night
+#### ☀️ Software Engineer by day
 
-Backend Engineer at [API Plus Tech](https://apiplustech.com/), the company behind [Dicast](https://dicast.io/), Platform that help SMEs build their websites globally.
-
-Creator of [Finsim](https://github.com/preamza02/finsim), an open-source tool helping people simulate their future finances.
+Frontend Engineer at [Agoda](www.agoda.com).
 
 - ⚙️ Daily Use: `.go`, `.md`, `.yaml`
 - ⚒️ Favorite CLI: `git`, `make`, `kubectl`, `helm`, `tmux`
