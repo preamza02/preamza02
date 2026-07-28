@@ -1,4 +1,4 @@
-### Hi, I'm **Prame** 👋
+### Hi, I'm **Supakone Kongprapan** 👋
 
 #### ☀️ Software Engineer
 
